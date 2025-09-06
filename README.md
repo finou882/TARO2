@@ -1,5 +1,6 @@
+<div style="text-align: center;">
 <img width="318" height="115" alt="Image" src="https://github.com/user-attachments/assets/92207608-d6ea-46ec-9add-230f9e069466" />
-
+</div>
 
 
 # TARO2
